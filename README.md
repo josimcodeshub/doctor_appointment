@@ -4,17 +4,15 @@ A modern doctor appointment booking platform where patients can browse doctors, 
 
 ## 🌐 Live Site
 
-**Live URL:** https://your-live-site-url.vercel.app
-
+**Live URL: https://doctor-appointment-chi-nine.vercel.app
 ## 🔗 Repository Links
-
+https:https://github.com/josimcodeshub
 ### Client Repository
-
-https://github.com/your-username/docappoint-client
-
+https://doctor-appointment-chi-nine.vercel.app
 ### Server Repository
+https://doctor-appointment-server-green.vercel.app
 
-https://github.com/your-username/docappoint-server
+
 
 ---
 
